@@ -1,0 +1,7 @@
+[run]
+source = accounts/, projects/,
+omit = 
+    venv
+    */migrations/*
+    */tests/*
+    */__init__.py
